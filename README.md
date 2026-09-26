@@ -1,4 +1,6 @@
-## Hi there 👋
+## pretend i know how to code
+## site: wonderhoy.moe
+## atabook: koro.atabook.org
 
 <!--
 **mizuware/mizuware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
